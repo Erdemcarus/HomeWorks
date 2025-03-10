@@ -1,0 +1,14 @@
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\bin\Debug\net8.0\Ödev5.exe
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\bin\Debug\net8.0\Ödev5.deps.json
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\bin\Debug\net8.0\Ödev5.runtimeconfig.json
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\bin\Debug\net8.0\Ödev5.dll
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\bin\Debug\net8.0\Ödev5.pdb
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\Ödev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\Ödev5.AssemblyInfoInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\Ödev5.AssemblyInfo.cs
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\Ödev5.csproj.CoreCompileInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\Ödev5.dll
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\refint\Ödev5.dll
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\Ödev5.pdb
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\Ödev5.genruntimeconfig.cache
+C:\Users\erdem\OneDrive\Masaüstü\github\HomeWorks\Ödev5\Ödev5\obj\Debug\net8.0\ref\Ödev5.dll

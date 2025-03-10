@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\HomeWorks\\\u00D6dev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F349E85-8FE4-4250-89AA-183069B3120C}|\u00D6dev3\\\u00D6dev3.csproj|c:\\users\\erdem\\onedrive\\masa\u00FCst\u00FC\\github\\homeworks\\\u00F6dev3\\\u00F6dev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F349E85-8FE4-4250-89AA-183069B3120C}|\u00D6dev3\\\u00D6dev3.csproj|solutionrelative:\u00F6dev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\HomeWorks\\\u00D6dev3\\\u00D6dev3\\Program.cs",
+              "RelativeDocumentMoniker": "\u00D6dev3\\Program.cs",
+              "ToolTip": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\HomeWorks\\\u00D6dev3\\\u00D6dev3\\Program.cs",
+              "RelativeToolTip": "\u00D6dev3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:40:08.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
